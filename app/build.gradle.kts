@@ -2,7 +2,7 @@ plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
 }
-
+//aaaaaaaaaaa
 android {
     namespace = "com.itson.retrofit"
     compileSdk = 34
